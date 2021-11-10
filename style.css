@@ -36,3 +36,7 @@ nav a {
     font-family: 'Grenze Gotisch', cursive;
     font-size: 1rem;
 }
+
+p {
+    margin: 0.5rem;
+}
